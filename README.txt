@@ -1,6 +1,6 @@
 welcome to our Radio app:
 
-In order to try our radio app just download the files and type make at your terminal.
+In order to try our radio app just download the files and type 'make' at your terminal.
 
 
 To use the Server proparly just type in the command line:
