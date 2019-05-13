@@ -3,7 +3,7 @@ welcome to our Radio app:
 In order to try our radio app just download the files and type 'make' at your terminal.
 
 
-To use the Server proparly just type in the command line:
+To use the Server properly just type in the command line:
 
 ./radio_server <tcpport> <mulitcastip> <udpport> <file1 > <file2 > ...
 
