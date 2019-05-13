@@ -3,7 +3,7 @@ welcome to our Radio app:
 In order to try our radio app just download the files and type 'make' at your terminal.
 
 
-To use the Server properly just type in the command line:
+To use the server properly just type in the command line:
 
 ./radio_server <tcpport> <mulitcastip> <udpport> <file1 > <file2 > ...
 
@@ -12,7 +12,7 @@ server send station number 0. < udpport > is a port number on which the server w
 music, followed by a list of one or more files.
 
 
-To use the Client proparly just type in the command line:
+To use the client proparly just type in the command line:
 
 ./radio_control <servername> <serverport>
 
